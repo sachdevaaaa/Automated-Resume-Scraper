@@ -32,7 +32,7 @@ This is a demo-mode Streamlit web app that simulates intelligent contact informa
 ## 🚀 Try It Live
 
 You can try the hosted demo version here:  
-👉 [https://your-streamlit-link.streamlit.app](https://your-streamlit-link.streamlit.app) ← replace with real link after deploy
+👉 [https://automated-scraper-divyam.streamlit.app/] 
 
 ---
 
