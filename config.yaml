@@ -1,0 +1,7 @@
+excel_file: "demo_profiles.xlsx"
+driver_path: 
+user_data_dir: "C:/Users/YourName/AppData/Local/Google/Chrome/User Data"
+profile_dir: "Profile 1"
+headless: false
+demo_mode: true
+wait_time: 2
